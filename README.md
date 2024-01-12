@@ -13,7 +13,7 @@ Make sure you have the following installed on your system:
 
 ## District Summary:
 - Calculates and displays key metrics for the entire district, including total schools, students, budget, and average scores.
-- 
+  
 ## School Summary:
 - Provides a summary of each school, including school type, total students, budget, per student budget, and average scores.
   
