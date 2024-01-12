@@ -6,5 +6,5 @@ This repository contains an analysis of school performance in the fictional PyCi
 
 ## Prerequisites:
 Make sure you have the following installed on your system:
-Python (https://www.python.org/)
-Jupyter Notebook (https://jupyter.org/install)
+- Python (https://www.python.org/)
+- Jupyter Notebook (https://jupyter.org/install)
