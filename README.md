@@ -1,6 +1,6 @@
 # PyCitySchools Analysis
 
-This repository contains an analysis of school performance in the fictional PyCity district. The analysis includes calculations and visualizations to understand key metrics such as district summary, school summary, top and bottom-performing schools, scores by grade, school spending, school size and schools type.
+This repository contains a Jupyter Notebook which performs an analysis of school performance in the fictional PyCity district. The analysis includes calculations and visualizations to understand key metrics such as district summary, school summary, top and bottom-performing schools, scores by grade, school spending, school size and schools type.
 
 ## Steps to Set Up and Run the Jupyter Notebook:
 
@@ -31,3 +31,5 @@ Make sure you have the following installed on your system:
 
 ## Scores by School Type:
 - Creates a summary of school performance based on school type (Charter or District).
+
+Feel free to explore and modify the notebook to suit your specific needs or datasets.
